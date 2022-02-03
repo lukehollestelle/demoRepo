@@ -4,6 +4,6 @@ import org.junit.*;
 public class demoFileTest {
  @Test
  public void addTest(){
-  assertEquals(3, addFive(4)); 
+  assertEquals(3, demoFile.addFive(4)); 
  }
 }
